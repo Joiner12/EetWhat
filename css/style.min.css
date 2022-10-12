@@ -19,7 +19,7 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 .bg {
-  background: #e9e9e9 url(../images/chi.png) 50% 0;
+  background: #e9e9e9 url(../images/chi1.png) 50% 0;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   -webkit-animation: flow 16s linear infinite;
