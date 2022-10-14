@@ -32,7 +32,7 @@ body {
   z-index: -1;
 }
 .playing .bg {
-  -webkit-animation-play-state: paused;
+  /* -webkit-animation-play-state: paused; */
   animation-play-state: paused;
 }
 #wrapper {
@@ -74,6 +74,7 @@ body {
   color: #666;
   line-height: 1.4;
   width: 80%;
+  font-size: 20px;
 }
 #wrapper .tip {
   position: absolute;
@@ -244,7 +245,7 @@ body {
   background: rgba(0, 0, 0, 0.3);
   padding: 5px 10px;
   z-index: 3;
-  font-size: 14px;
+  font-size: 20px;
   white-space: nowrap;
   -webkit-animation: comment 3s both;
   animation: comment 3s both;
